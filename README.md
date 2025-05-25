@@ -33,7 +33,7 @@ python generate_ligand.py \
 pdb_path:	Path to the full protein structure in PDB format  
 pocket_path:	Path to the pocket (binding site) PDB file  
 mount_dir:	Host directory to mount into container as /work  
-container_path:	Absolute path to the Pocket2Mol .sif container image  
+container_path:	Absolute path to the "Pocket2Mol.sif" container image  
 device:	(Optional) cpu or cuda (default: cpu)  
 outdir:	(Optional) Directory to save output ligand files  
 
