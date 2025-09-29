@@ -4,13 +4,13 @@ This repository provides a reproducible, command-line interface for running the 
 It includes tools for automatically computing the 3D center and bounding box of a protein pocket, and initiates the containerized ligand generation process.
 
 Requirements:  
-python 3.7+  
-Singularity (https://sylabs.io/singularity/)  
-Pocket2Mol '.sif' container  
+-python 3.7+  
+-Singularity (https://sylabs.io/singularity/)  
+-Pocket2Mol '.sif' container  
 
 Python Packages:  
-biopython  
-numpy  
+-biopython  
+-numpy  
 
 ## How it works
 
